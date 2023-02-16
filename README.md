@@ -23,10 +23,6 @@ Este é um projeto de cartão de embarque. A página inclui um cartão de embarq
 
 <br>
 
-<p align="center">
-  <img alt="projeto cartão de embarque" src="./src/img/imagem-modile-readme.gif" width="50%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
