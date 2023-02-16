@@ -21,6 +21,12 @@ Este é um projeto de cartão de embarque. A página inclui um cartão de embarq
   <img alt="projeto cartão de embarque" src="./src/img/imagem-readme.gif" width="100%">
 </p>
 
+<br>
+
+<p align="center">
+  <img alt="projeto cartão de embarque" src="./src/img/imagem-modile-readme.gif" width="50%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,9 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; &nbsp; &nbsp; &nbsp; 
-<img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="center" alt="git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
 <br><br>
-<img align="center" alt="figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="center" alt="figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
 </div> 
 <br><br><br>
 
